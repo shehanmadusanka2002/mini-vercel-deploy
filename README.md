@@ -76,3 +76,4 @@ Follow these steps to set up the project on your local machine.
 ```bash
 git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/[REPO_NAME].git
 cd [REPO_NAME]
+Dashboard login - http://13.60.194.163:5173
